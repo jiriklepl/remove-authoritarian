@@ -1,0 +1,62 @@
+Australia                     9.09
+Austria                       8.29
+Bangladesh                    5.88
+Belarus                       2.48
+Belgium                       7.64
+Bosnia and Hercegovina        4.86
+Brazil                        6.86
+Bulgaria                      7.03
+Canada                        9.22
+Chile                         8.08
+China                         2.26
+Colombia                      7.13
+Croatia                       6.57
+Czech Republic                7.69
+Denmark                       9.22
+Ecuador                       6.33
+Finland                       9.25
+France                        8.12
+Georgia                       5.42
+Germany                       8.68
+Greece                        7.43
+Hong Kong                     6.02
+Hungary                       6.63
+Iceland                       9.58
+India                         6.90
+Indonesia                     6.48
+Iran                          2.38
+Ireland                       9.24
+Israel                        7.86
+Italy                         7.52
+Japan                         7.99
+Kazakhstan                    2.94
+Kenya                         5.18
+Latvia                        7.49
+Lithuania                     7.50
+Luxembourg                    8.81
+Netherlands                   9.01
+New Zealand                   9.26
+North Macedonia               5.97
+Norway                        9.87
+Paraguay                      6.24
+Philippines                   6.64
+Poland                        6.62
+Portugal                      8.03
+Romania                       6.49
+Russia                        3.11
+Serbia                        6.41
+Singapore                     6.02
+Slovakia                      7.17
+Slovenia                      7.50
+South Africa                  7.24
+South Korea                   8.00
+Spain                         8.29
+Sweden                        9.39
+Switzerland                   9.03
+Taiwan                        7.73
+Thailand                      6.32
+Turkey                        4.09
+Ukraine                       5.90
+United Kingdom                8.52
+United States of America      7.96
+Vietnam                       3.08
